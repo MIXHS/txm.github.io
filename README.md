@@ -6,6 +6,9 @@ https://mixhs.github.io/txm.github.io/
 
 叠个甲：全部数据来着网络，如果有错误可以提出来，别私聊骂我，因为我要上班没时间收集数据去验证可行性 真实性
 
+这是wiki很多工具就是了，后期他们更新了估计我就懒得去更新了
+https://wiki.biligame.com/rocom/%E9%A6%96%E9%A1%B5
+
 如果有数据或者是更新了蛋组可以在评论区说，我有空一定会更新
 
 一个是html浏览页，一个是pet—img（是图片资源给图片命名 宠物.PNG/ing都可以）
