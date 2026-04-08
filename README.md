@@ -1,5 +1,13 @@
 #洛克王国-世界 蛋组查询
 
+这是wiki出的 很全面 很专业
+
+https://roco.gptvip.chat/
+
+---------------------------------------------
+
+停止更新
+
 https://mixhs.github.io/txm.github.io/
 
 因为热爱
